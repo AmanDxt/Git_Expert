@@ -1,0 +1,2 @@
+This is the file to know as how git is cloning to ec2.
+Another changes for git name stamp.
