@@ -1,0 +1,1 @@
+This is the file to know as how git is cloning to ec2.
